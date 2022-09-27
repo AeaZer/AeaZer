@@ -2,7 +2,7 @@
 
 ### Hello, I'm AeaZer 👋
 
-🌱 I’m currently learning Rust.
+🌱 I’m currently learning Dart.
 
 - 个人网站: https://areazer.top
 - Gopher
