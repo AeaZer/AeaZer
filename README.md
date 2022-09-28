@@ -2,6 +2,6 @@
 
 ### Hello, I'm AeaZer 👋
 
-🌱 I’m currently learning Dart.
+🌱 I’m currently learning Flutter.
 
 - 个人网站: [https://www.areazer.top](http://www.areazer.top/)
