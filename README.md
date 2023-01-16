@@ -2,6 +2,6 @@
 
 ### Hello, I'm AeaZer 👋
 
-🌱 I’m currently learning Flutter.
+🌱 I’m currently learning C++. add oil.
 
-- 个人网站: [https://www.areazer.top](http://www.areazer.top/)
+- 个人博客: [https://www.areazer.top](http://www.areazer.top/)
