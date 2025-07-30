@@ -1,5 +1,5 @@
 ### Hello, I'm AeaZer 👋
 
-🌱 I’m currently learning shell.
+🌱 Bad luck is chasing me, Help me!
 
-- 个人博客: [https://www.areazer.top](http://www.areazer.top/)
+
